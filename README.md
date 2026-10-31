@@ -1,1 +1,1 @@
-# Mnist_pred-main
+# Mnist_pred
